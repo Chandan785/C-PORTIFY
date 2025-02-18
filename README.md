@@ -28,7 +28,7 @@ The **C-Portify-mini-musicplayer** is a mini music player that offers a seamless
 ## 🚀 Deployment on Netlify
 To deploy this music player on Netlify:
 1. Upload your project to GitHub.
-2. Play the Game [C -portify](https://c-portify785.netlify.app/).
+2. Play the Game [C-PORTIFY](https://c-portify785.netlify.app/).
 
 
 ## 💡 Future Enhancements
