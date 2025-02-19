@@ -19,7 +19,7 @@ The **C-Portify-mini-musicplayer** is a mini music player that offers a seamless
 /C-PORTIFY
  /public
   │-- index.html   # Main HTML file
-  │-- main.css    # Styling for the game
+  │-- main.css    # Styling for the music player
   │-- script.js     # JavaScript logic
 |-- Package.json
 |-- README.md
